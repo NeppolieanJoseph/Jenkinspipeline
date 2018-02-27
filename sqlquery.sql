@@ -5,3 +5,5 @@ SET ANSI_PADDING OFF
 GO
 
 INSERT INTO [dbo].[Table]([Name],[Country]) VALUES ('Test Name','Test Country') 
+INSERT INTO [dbo].[Table]([Name],[Country]) VALUES ('Neppoliean J','Canada') 
+GO 

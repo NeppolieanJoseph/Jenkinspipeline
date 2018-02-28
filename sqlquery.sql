@@ -6,4 +6,5 @@ GO
 
 INSERT INTO [dbo].[Table]([Name],[Country]) VALUES ('Test Name','Test Country') 
 INSERT INTO [dbo].[Table]([Name],[Country]) VALUES ('Neppoliean J','Canada') 
+INSERT INTO [dbo].[Table]([Name],[Country]) VALUES ('JerwinJoe J','America') 
 GO 
